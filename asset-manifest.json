@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amazon-cart/static/css/main.255646a7.chunk.css",
+    "main.js": "/amazon-cart/static/js/main.57509755.chunk.js",
+    "main.js.map": "/amazon-cart/static/js/main.57509755.chunk.js.map",
+    "runtime-main.js": "/amazon-cart/static/js/runtime-main.a765e461.js",
+    "runtime-main.js.map": "/amazon-cart/static/js/runtime-main.a765e461.js.map",
+    "static/js/2.565b3223.chunk.js": "/amazon-cart/static/js/2.565b3223.chunk.js",
+    "static/js/2.565b3223.chunk.js.map": "/amazon-cart/static/js/2.565b3223.chunk.js.map",
+    "static/js/3.4113cb48.chunk.js": "/amazon-cart/static/js/3.4113cb48.chunk.js",
+    "static/js/3.4113cb48.chunk.js.map": "/amazon-cart/static/js/3.4113cb48.chunk.js.map",
+    "index.html": "/amazon-cart/index.html",
+    "static/css/main.255646a7.chunk.css.map": "/amazon-cart/static/css/main.255646a7.chunk.css.map",
+    "static/js/2.565b3223.chunk.js.LICENSE.txt": "/amazon-cart/static/js/2.565b3223.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a765e461.js",
+    "static/js/2.565b3223.chunk.js",
+    "static/css/main.255646a7.chunk.css",
+    "static/js/main.57509755.chunk.js"
+  ]
+}
